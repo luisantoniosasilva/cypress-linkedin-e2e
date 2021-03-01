@@ -17,8 +17,8 @@ The elaboration of this project is **exclusively for the study** of the mentione
 ```
 
 #### Running the project
-`npx cypress open` - runs Cypress in GUI mode
-`npx cypress run` - runs Cypress in headless mode
+- `npx cypress open` - runs Cypress in GUI mode
+- `npx cypress run` - runs Cypress in headless mode
 
 ### Test Scenarios
 - Register
