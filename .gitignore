@@ -1,0 +1,4 @@
+node_modules
+
+cypress/fixtures/dataBase.json
+cypress/videos
